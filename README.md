@@ -48,8 +48,6 @@ This repository provides an automated pipeline for extracting high-salience keyw
 ## 📄 Deliverables in this Repository
 
 - [`NLP_CODE.ipynb`](NLP_CODE.ipynb): Complete runnable notebook with text preprocessing, model implementations, and comparative precision/recall evaluations.
-- [`NLP_FINAL_REPORT.pdf`](NLP_FINAL_REPORT.pdf): Formal academic project report and methodology breakdown.
-- [`NLP.pptx`](NLP.pptx): Project defense presentation slides.
 
 ---
 

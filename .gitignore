@@ -2,3 +2,10 @@
 .ipynb_checkpoints/
 *.pyc
 __pycache__/
+
+# Presentations & Working Reports
+*.pptx
+*.ppt
+*.docx
+*.doc
+*.pdf
